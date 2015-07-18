@@ -1,0 +1,9 @@
+# Ignore executable
+*.exe
+
+# Ignore docs
+docs/
+
+# Ignore these files in media folder
+*.byc
+media/SourceCode.txt
