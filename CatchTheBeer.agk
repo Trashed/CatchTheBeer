@@ -4,12 +4,14 @@ FILE_0=main.agc;-1
 FILE_1=include%2Fplayer%2Fplayer.agc;-1
 FILE_2=include%2Fplayer%2Fplayer_ctrl.agc;-1
 FILE_3=include%2Finput%2Finput.agc;-1
+FILE_4=include%2Fcollision%2Fcollisions.agc;-1
 
 [files]
-FILE_NAME_0=0;main.agc;728;0
-FILE_NAME_1=0;include%2Fplayer%2Fplayer.agc;58;1
-FILE_NAME_2=0;include%2Fplayer%2Fplayer_ctrl.agc;0;2
-FILE_NAME_3=1;include%2Finput%2Finput.agc;0;3
+FILE_NAME_0=0;main.agc;478;0
+FILE_NAME_1=0;include%2Fplayer%2Fplayer.agc;88;2
+FILE_NAME_2=0;include%2Fplayer%2Fplayer_ctrl.agc;684;3
+FILE_NAME_3=0;include%2Finput%2Finput.agc;0;1
+FILE_NAME_4=1;include%2Fcollision%2Fcollisions.agc;0;4
 
 [project]
 description=
