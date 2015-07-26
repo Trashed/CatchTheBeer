@@ -19,7 +19,9 @@ endfunction
 
 
 function updatePlayer(dt as float)
-	inc Player.x, getDeviceTiltX()
 	
-	SetSpritePositionByOffset(Player.id, Player.x, Player.y)
+	if getBoundaryCollision( Player.x, Player.width ) = false
+		inc Player.x, getDeviceTiltX()
+		SetSpritePositionByOffset(Player.id, Player.x, Player.y)
+	endif
 endfunction
