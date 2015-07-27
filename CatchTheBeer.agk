@@ -7,11 +7,11 @@ FILE_3=include%2Finput%2Finput.agc;-1
 FILE_4=include%2Fcollision%2Fcollisions.agc;-1
 
 [files]
-FILE_NAME_0=0;main.agc;478;0
+FILE_NAME_0=1;main.agc;468;0
 FILE_NAME_1=0;include%2Fplayer%2Fplayer.agc;88;2
-FILE_NAME_2=0;include%2Fplayer%2Fplayer_ctrl.agc;684;3
+FILE_NAME_2=0;include%2Fplayer%2Fplayer_ctrl.agc;637;3
 FILE_NAME_3=0;include%2Finput%2Finput.agc;0;1
-FILE_NAME_4=1;include%2Fcollision%2Fcollisions.agc;0;4
+FILE_NAME_4=0;include%2Fcollision%2Fcollisions.agc;225;4
 
 [project]
 description=

@@ -16,9 +16,9 @@ SetDisplayAspect(9.0 / 16.0)
 SetOrientationAllowed( 1, 0, 0, 0 )
 SetSyncRate(120, 1)
 
-#include "/include/input/input.agc"
-#insert "/include/player/player.agc"
-#include "/include/player/player_ctrl.agc"
+#include "include/input/input.agc"
+#insert "include/player/player.agc"
+#include "include/player/player_ctrl.agc"
 #include "include/collision/collisions.agc"
 
 
