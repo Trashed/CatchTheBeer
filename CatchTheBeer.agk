@@ -5,13 +5,15 @@ FILE_1=include%2Fplayer%2Fplayer.agc;-1
 FILE_2=include%2Fplayer%2Fplayer_ctrl.agc;-1
 FILE_3=include%2Finput%2Finput.agc;-1
 FILE_4=include%2Fcollision%2Fcollisions.agc;-1
+FILE_5=include%2Fconstants.agc;-1
 
 [files]
-FILE_NAME_0=1;main.agc;468;0
+FILE_NAME_0=0;main.agc;900;0
 FILE_NAME_1=0;include%2Fplayer%2Fplayer.agc;88;2
 FILE_NAME_2=0;include%2Fplayer%2Fplayer_ctrl.agc;637;3
 FILE_NAME_3=0;include%2Finput%2Finput.agc;0;1
 FILE_NAME_4=0;include%2Fcollision%2Fcollisions.agc;225;4
+FILE_NAME_5=1;include%2Fconstants.agc;0;5
 
 [project]
 description=
